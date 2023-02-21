@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">بطاقة أعمال</string>
+    <string name="title">برمج دوت كوم</string>
+    <string name="label_description">الوصف:</string>
+    <string name="label_address">العنوان:</string>
+    <string name="label_email">البريد الإلكتروني:</string>
+    <string name="label_phone">الهاتف:</string>
+    <string name="description">برمج.كوم هي منصة تعليمية عربية تهدف إلى إثراء المحتوى العربي للغات البرمجة وتنمية مهارات البرمجة للعالم العربي. تحتوي منصة برمج على عدة مسارات مختلفة تتيح لك تعلم مختلف لغات البرمجة الحديثة بطريقة مبسطة.  من خلال المنصة يمكنك مشاهدة فيديوهات تعليمية عربية بجودة عالية تشرح لك المفاهيم الأساسية للغات البرمجة. كما تحتوى المنصة على تحديات برمجية واختبارات قصيرة تتيح لك اختبار المهارات التي تعلمتها وتطبيق ما تعلمته مباشرة على الموقع.</string>
+    <string name="address">مجمع أرغان التجاري، المبنى السابع الطابق الأول، المنطقة الحرة، مدينة الكويت</string>
+    <string name="email">ahlan@barmej.com</string>
+    <string name="phone">1018 6079 965+</string>
+</resources>
